@@ -2,7 +2,11 @@
 
 ## 🚀 我的力扣刷题动态
 
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=Mi_xiaoxiao&cn_username=avvesome-aryabhatapcq&theme=dark)
+### 🇺🇸 美区账号
+![LeetCode US Stats](https://leetcard.jacoblin.cool/Mi_xiaoxiao?theme=dark&font=baloo)
+
+### 🇨🇳 国区账号
+![LeetCode CN Stats](https://leetcard.jacoblin.cool/avvesome-aryabhatapcq?theme=dark&font=baloo&site=cn)
 
 ## 📝 [我的 CSDN 博客](https://blog.csdn.net/Mi_Xiaoxiao_)
 
